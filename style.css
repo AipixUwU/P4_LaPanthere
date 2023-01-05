@@ -775,7 +775,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
+    text-align: center;
 }
 
 .btn-atomic-tangerine {
@@ -811,6 +812,8 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
+    display: flex;
+    justify-content: center;
 }
 
 .bg-lines-h2-bg {
